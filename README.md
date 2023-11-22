@@ -1,5 +1,5 @@
 # Hube_Realtime_GPTxShopify-chatbot
-Description
+#Description:
 This project aims to integrate Google's PaLM (Pathways Language Model) with Shopify's API to create a sophisticated Language Model (LLM) capable of providing real-time product information. The system is designed to understand and respond to user queries about product details, prices, and availability, directly interacting with a Shopify store's database.
 
 #Key Features
